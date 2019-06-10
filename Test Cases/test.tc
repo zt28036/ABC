@@ -4,6 +4,7 @@
    <name>test</name>
    <tag></tag>
    <comment>step1
-step2</comment>
+step2
+step3</comment>
    <testCaseGuid>f597a31b-d6a4-4b36-956a-f43ec9f0cbc5</testCaseGuid>
 </TestCaseEntity>
